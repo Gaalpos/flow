@@ -12,6 +12,8 @@ class FlowWindow(Gtk.Window):
         self.set_border_width(10)
         self.set_default_size(800, 600)
 
+     #   self.set_icon_from_file("logo.jpg")
+
         self.current_artist = None  # Store the currently selected artist
         self.current_playlist = []  # To store the current playlist
         self.playlist_type = 'all'  # To keep track of the current playlist type
