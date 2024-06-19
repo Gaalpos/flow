@@ -4,6 +4,7 @@ Simple music player for linux
 
 Current features:
 
+- FLAC only support (for now)
 - Artists view
 - Mark songs as favorite
 - Play, Pause, Stop
